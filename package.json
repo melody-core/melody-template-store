@@ -1,6 +1,6 @@
 {
-  "name": "rem-repo",
-  "version": "1.0.0",
+  "name": "component-repo",
+  "version": "0.0.2",
   "description": "最好的react-mobile-UI库!",
   "scripts": {
     "build": "yarn workspaces run build",
